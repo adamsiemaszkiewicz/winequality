@@ -1,5 +1,5 @@
 # Wine Quality Classification
-**Wine quality EDA & classification using Scikit-learn, Matplotlib & Plotly **
+**Wine quality EDA & classification using Scikit-learn, Matplotlib & Plotly**
 
 *by Adam Siemaszkiewicz*
 
